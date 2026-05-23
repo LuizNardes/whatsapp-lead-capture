@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Environment & secrets
+.env
+*.json.key
+*-credentials.json
+*-service-account.json
+wpp-planilha-*.json
+
+# Build output
+dist/
+
+# Test scripts
+test-*.ts
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
