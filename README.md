@@ -27,12 +27,6 @@ Um servidor que fica ouvindo o WhatsApp e, a cada primeira mensagem de um novo c
 - ✅ Ignora mensagens de grupos e mensagens enviadas pelo próprio número
 - ✅ Planilha pronta para o time de vendas trabalhar, sem nenhum esforço manual
 
-## 🎬 Demo
-
-![Demo da planilha sendo preenchida automaticamente](https://placehold.co/800x400?text=Screenshot+da+planilha)
-
-> Enviei uma mensagem de teste → 2 segundos depois o lead apareceu na planilha com nome, número, mensagem e horário.
-
 ## 🛠 Stack Técnica
 
 | Camada | Tecnologia |
